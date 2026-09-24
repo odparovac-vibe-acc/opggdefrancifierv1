@@ -10,3 +10,5 @@ Set the language by clicking the extension icon (default `en`).
 **Install (Chromium):** `chrome://extensions` → enable Developer mode → *Load unpacked* → pick this folder.
 **Install (Firefox):** `about:debugging#/runtime/this-firefox` → *Load Temporary Add-on* → pick `manifest.json`.
 In Firefox, click Save in the popup once and allow access to op.gg.
+
+Note: kr setting is bugging out, will look into it after I win a scrim game on irelia.
